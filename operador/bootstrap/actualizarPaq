@@ -1,0 +1,10 @@
+<?php
+	require_once('InterfazConexion.php');
+	require_once('MetodosUsuario.php');
+	
+	echo'<script type="text/javascript">
+    console.log("ya");
+    </script>';
+
+	
+?>

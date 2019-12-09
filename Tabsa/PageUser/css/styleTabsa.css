@@ -1,0 +1,25 @@
+.flex-container{
+    max-width:90%;
+    width:90%;
+    list-style-type:none;
+    margin:10px auto;
+    padding:0;
+    background-color:midnightblue;
+    
+    /*Flexbox setup*/
+    display: flex;
+  flex-flow: column wrap;
+  justify-content: space-around;
+  align-items:center;
+}
+.pet{
+  background-color: #FEE9BB;
+}
+.cot{
+  background-color: #BD4040;
+  border-radius: 15px;
+  font-size: 25px;
+  font-family: sans-serif;
+  color: white;
+}
+

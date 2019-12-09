@@ -1,0 +1,1 @@
+[19-Jun-2018 13:14:45 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'isaac'@'localhost' (using password: YES) in /home/monovacc/public_html/tabsaexpress/Tabsa/PageUser/Conexion.php on line 6

@@ -1,0 +1,10 @@
+body{
+	background-color: #FEE9BB;
+}
+.container{
+	background-color: #BD4040;
+	border-radius: 15px;
+	font-size: 25px;
+	font-family: sans-serif;
+	color: white;
+}
